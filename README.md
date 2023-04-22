@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jerniya
 - 👀 I’m interested in ...Development
-- 🌱 I’m currently learning ...devops
+- 🌱 I’m currently working on covid detection project ...
 - 💞️ I’m looking to collaborate on ...open source project
 - 📫 How to reach me ...u can reach me on jerniyanoblealaiyus@gmail.com
 
